@@ -8,7 +8,7 @@
     <section id="basic-datatable">
                    
                                     
-                                    <a class="btn btn-success" href="{{url('admin/category')}}">Add Categories</a>
+                                    <a class="btn btn-success" href="{{url('admin/product-category')}}">Add Categories</a>
                               
                                 <br>
                                    <div class="card-datatable p-2">
